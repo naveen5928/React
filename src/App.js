@@ -1,5 +1,5 @@
 import "./styles.css";
-import Car from "./classcomponent";
+import Car from "./conditionalcomponent";
 export default function App() {
   return (
     <main className="container">

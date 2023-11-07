@@ -14,7 +14,7 @@ class Car extends React.Component {
       );
     return (
       <div>
-        <h1> Im a {bio} </h1>
+        <h1> Im a have {bio} car </h1>
       </div>
     );
   }
